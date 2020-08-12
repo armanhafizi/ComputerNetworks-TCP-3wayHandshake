@@ -1,0 +1,1 @@
+The quite exact implementation of 3-way handshake TCP protocol between a server and multi clients at the same time. The results of the packet transmition time are saved and shown in a graph. Feel free to contact me for more information.
